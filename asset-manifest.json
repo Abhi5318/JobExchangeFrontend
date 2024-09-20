@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JobExchangeFrontend/static/css/main.a37240e8.css",
+    "main.js": "/JobExchangeFrontend/static/js/main.8494cf6d.js",
+    "static/js/453.8ab44547.chunk.js": "/JobExchangeFrontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/JobExchangeFrontend/index.html",
+    "main.a37240e8.css.map": "/JobExchangeFrontend/static/css/main.a37240e8.css.map",
+    "main.8494cf6d.js.map": "/JobExchangeFrontend/static/js/main.8494cf6d.js.map",
+    "453.8ab44547.chunk.js.map": "/JobExchangeFrontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37240e8.css",
+    "static/js/main.8494cf6d.js"
+  ]
+}
